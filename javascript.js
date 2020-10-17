@@ -87,4 +87,3 @@ function getLocal(key) {
 function setLocal(key, value) {
   localStorage.setItem(key, JSON.stringify(value));
 }
-console.log("hi")
